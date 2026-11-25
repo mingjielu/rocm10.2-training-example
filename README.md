@@ -1,0 +1,1 @@
+# rocm10.2-training-example
